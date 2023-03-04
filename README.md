@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning R 
 - 💬 Feel free to ask me about anything!
-- 📫 How to reach me: Linkedin: www.linkedin.com/in/poorvi-madnani
+- 📫 Reach me: Linkedin -> www.linkedin.com/in/poorvi-madnani
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: When I'm not studying, I enjoy indulging in my passion for food and meeting new people.
 

@@ -3,7 +3,13 @@ I am passionate about exploring the intersection of finance and data analysis, a
 
 - 🌱 I’m currently learning R 
 - 💬 Feel free to ask me about anything!
-- 📫 Reach me: Linkedin -> www.linkedin.com/in/poorvi-madnani
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: When I'm not studying, I enjoy indulging in my passion for food and meeting new people.
 
+### Tools & Technologies:
+
+[![My Skills](https://skillicons.dev/icons?i=r,discord)](https://skillicons.dev)
+
+### Reach me here!
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&link=https://linkedin.com/in/poorvi-madnani/)](https://linkedin.com/in/poorvi-madnani/)  [![Gmail](https://user-images.githubusercontent.com/43759637/216711211-fe7c9403-9b9f-4e87-8aa5-35a0d4ceeef6.svg)](mailto:poorvimadnani@gmail.com)

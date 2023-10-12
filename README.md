@@ -1,14 +1,14 @@
 ### Hello everyone 👋🏼, I am Poorvi Madnani, a driven and dedicated student currently pursuing a Bachelor of Arts in Finance at Huron at Western University. 
-I am passionate about exploring the intersection of finance and data analysis, and I am excited to be developing my skills in this area through my current coursework in econometrics. My studies in econometrics have allowed me to dive deeper into the world of data analysis, and I have developed a strong interest in using data to drive informed decision-making in the field of finance.
+I am passionate about exploring the intersection of finance and data analysis, and I am excited to be developing my skills in this area through my current coursework in econometrics. My studies in Econometrics have allowed me to dive deeper into the world of data analysis, and I have developed a strong interest in using data to drive informed decision-making in the field of finance.
 
-- 🌱 I’m currently learning R 
+- 🌱 I’m currently learning Python
 - 💬 Feel free to ask me about anything!
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: When I'm not studying, I enjoy indulging in my passion for food and meeting new people.
 
 ### Tools & Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=r,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,discord)](https://skillicons.dev) 
 
 ### Reach me here!
 

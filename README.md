@@ -1,4 +1,4 @@
-## Hello everyone 👋🏼, I am Poorvi Madnani, a driven and dedicated recent graduate holding a Bachelor of Arts in Finance at Huron at Western University, Canada. 
+## Hello everyone 👋🏼, I am Poorvi Madnani, a driven and dedicated recent graduate holding a Bachelor of Arts in Finance from Huron at Western University, Canada. 
 
 I am passionate about exploring the intersection of Finance and Data Analysis, and I am excited to be developing my skills in this area through my current coursework in econometrics. My studies in Econometrics and Computer Science: Coding Essentials have allowed me to dive deeper into the world of data analysis, and I have developed a strong interest in using data to drive informed decision-making in the field of finance.
 

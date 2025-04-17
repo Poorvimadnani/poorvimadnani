@@ -9,7 +9,7 @@ I am passionate about exploring the intersection of Finance and Data Analysis, a
 
 ### Tools & Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,discord,vscode,regex,photoshop)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=py,r,discord,vscode,regex,photoshop,powerbi,tableau,SQL,VBA)](https://skillicons.dev) 
 
 ### Reach me here!
 

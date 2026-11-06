@@ -1,6 +1,5 @@
-## Hello everyone 👋🏼, I am Poorvi Madnani, a driven and dedicated recent graduate holding a Bachelor of Arts in Finance from Huron at Western University, Canada. 
-
-I am passionate about exploring the intersection of Finance and Data Analysis, and I am excited to be developing my skills in this area through my current coursework in econometrics. My studies in Econometrics and Computer Science: Coding Essentials have allowed me to dive deeper into the world of data analysis, and I have developed a strong interest in using data to drive informed decision-making in the field of finance.
+## Hello everyone 👋🏼, I’m Poorvi Madnani, a finance graduate from Huron at Western University in Canada, currently working as a Senior Officer at DIFC Innovation Hub.
+I am passionate about exploring the intersection of Finance and Python, and I am excited to be developing my skills in this area through my passion for tech in Finance
 
 - 🌱 I’m currently learning AWS
 - 💬 Feel free to ask me about anything!
